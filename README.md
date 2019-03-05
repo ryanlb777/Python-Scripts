@@ -11,4 +11,4 @@ Allows you to send emails using smtplib and getpass
 Allows you to send text messages using the [Clockwork SMS API](https://www.clockworksms.com/)
 
 ### [face_detection](https://www.youtube.com/watch?v=20OCvqduKZg&t=12s)
-Allows you to detect cat or human faces depending on the xml file you use with OpenCV
+Allows you to detect cat or human faces depending on the xml file you use with OpenCV and numpy
